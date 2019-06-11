@@ -13,6 +13,7 @@ setup/installation guide
 *html
 *css
 *java script
+*bootstrap
 
 ###license
 *mit license
