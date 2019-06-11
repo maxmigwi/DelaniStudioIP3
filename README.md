@@ -1,9 +1,9 @@
-##project name:Delani-studio
-#### Delani studio is  project that is meant to basically decorate a portfolio
-### project developed:07/06/2019
-### project developer: Maxwel mwangi
+###project name:Delani-studio
+#### This  basically  a redesign of a delani studio
+### Project developed:07/06/2019
+### project developer: Maxwel mwangi.
 
-#### Delani-studio is a project 
+### Delani-studio is a project. 
 
 ###setup/installation guide
 * to start using this app use the following commands
