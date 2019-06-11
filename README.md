@@ -6,7 +6,7 @@
 #### Delani-studio is a project 
 
 setup/installation guide
-* to start using ths app use the folling commands
+* to start using ths app use the following commands
 *git clone https//github.com/moringa school/delani studio
 
 ###technologies used
