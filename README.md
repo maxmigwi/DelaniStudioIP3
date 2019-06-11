@@ -12,7 +12,6 @@ setup/installation guide
 ###technologies used
 *html
 *css
-*bootsrap
 *java script
 
 ######license
