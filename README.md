@@ -27,3 +27,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### CONTACTS
   * Email:maxwelmwangi@gmail.com
+   *phone number: 0702674418
