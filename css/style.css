@@ -232,7 +232,7 @@
   
   #email {
     background-color: aliceblue;
-    border-color: white;
+    border-color: whitesmoke;
     border-width: thin;
     color: white;
     margin-right: 450px;
@@ -247,7 +247,7 @@
     border-width: thin;
     color: white;
     margin-left: 47px;
-    margin-top: 30px;
+    margin-top: 40px;
   
   }
   .submit{
